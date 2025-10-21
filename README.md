@@ -13,7 +13,7 @@ El objetivo es que cualquier persona (incluyendo colaboradores en otros países)
 
 ## Entorno de referencia
 
-- **SO base**: Ubuntu 24.04 LTS  
+- **SO base**: Ubuntu 22.04 LTS  
 - **ROS 2**: Humble 
 - **Herramientas**: `colcon`, `rosdep`, `git`, `gcc/g++`, `python3-pip` (según paquetes)
 
