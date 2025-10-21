@@ -1,0 +1,16 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs/editores
+.vscode/
+.idea/
+
+# SO
+.DS_Store
+Thumbs.db
