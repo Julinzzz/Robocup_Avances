@@ -14,7 +14,7 @@ El objetivo es que cualquier persona (incluyendo colaboradores en otros países)
 ## Entorno de referencia
 
 - **SO base**: Ubuntu 24.04 LTS  
-- **ROS 2**: Jazzy Jalisco  
+- **ROS 2**: Humble 
 - **Herramientas**: `colcon`, `rosdep`, `git`, `gcc/g++`, `python3-pip` (según paquetes)
 
 > Aunque el repo trae artefactos de compilación, **se recomienda** generar una compilación limpia en tu equipo para evitar inconsistencias de plataforma o de toolchain.
