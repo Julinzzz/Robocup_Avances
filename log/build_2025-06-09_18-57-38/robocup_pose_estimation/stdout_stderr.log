@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing robocup_pose_estimation.egg-info/PKG-INFO
+writing dependency_links to robocup_pose_estimation.egg-info/dependency_links.txt
+writing entry points to robocup_pose_estimation.egg-info/entry_points.txt
+writing requirements to robocup_pose_estimation.egg-info/requires.txt
+writing top-level names to robocup_pose_estimation.egg-info/top_level.txt
+reading manifest file 'robocup_pose_estimation.egg-info/SOURCES.txt'
+writing manifest file 'robocup_pose_estimation.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/julian/ros2_ws/install/robocup_pose_estimation/lib/python3.10/site-packages/robocup-pose-estimation.egg-link (link to .)
+Installing pose_node script to /home/julian/ros2_ws/install/robocup_pose_estimation/lib/robocup_pose_estimation
+
+Installed /home/julian/ros2_ws/build/robocup_pose_estimation
+running symlink_data

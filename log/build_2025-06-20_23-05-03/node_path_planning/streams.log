@@ -1,0 +1,37 @@
+[0.438s] Invoking command in '/home/julian/ros2_ws/src/node_path_planning': PYTHONPATH=/home/julian/ros2_ws/build/node_path_planning/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/node_path_planning build --build-base /home/julian/ros2_ws/build/node_path_planning/build install --record /home/julian/ros2_ws/build/node_path_planning/install.log --single-version-externally-managed install_data
+[0.623s] running egg_info
+[0.623s] creating ../../build/node_path_planning/node_path_planning.egg-info
+[0.623s] writing ../../build/node_path_planning/node_path_planning.egg-info/PKG-INFO
+[0.623s] writing dependency_links to ../../build/node_path_planning/node_path_planning.egg-info/dependency_links.txt
+[0.623s] writing entry points to ../../build/node_path_planning/node_path_planning.egg-info/entry_points.txt
+[0.624s] writing requirements to ../../build/node_path_planning/node_path_planning.egg-info/requires.txt
+[0.624s] writing top-level names to ../../build/node_path_planning/node_path_planning.egg-info/top_level.txt
+[0.624s] writing manifest file '../../build/node_path_planning/node_path_planning.egg-info/SOURCES.txt'
+[0.625s] reading manifest file '../../build/node_path_planning/node_path_planning.egg-info/SOURCES.txt'
+[0.625s] writing manifest file '../../build/node_path_planning/node_path_planning.egg-info/SOURCES.txt'
+[0.625s] running build
+[0.625s] running build_py
+[0.626s] creating /home/julian/ros2_ws/build/node_path_planning/build
+[0.626s] creating /home/julian/ros2_ws/build/node_path_planning/build/lib
+[0.626s] creating /home/julian/ros2_ws/build/node_path_planning/build/lib/node_path_planning
+[0.626s] copying node_path_planning/planner.py -> /home/julian/ros2_ws/build/node_path_planning/build/lib/node_path_planning
+[0.626s] copying node_path_planning/__init__.py -> /home/julian/ros2_ws/build/node_path_planning/build/lib/node_path_planning
+[0.626s] running install
+[0.626s] running install_lib
+[0.626s] creating /home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages/node_path_planning
+[0.627s] copying /home/julian/ros2_ws/build/node_path_planning/build/lib/node_path_planning/planner.py -> /home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages/node_path_planning
+[0.627s] copying /home/julian/ros2_ws/build/node_path_planning/build/lib/node_path_planning/__init__.py -> /home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages/node_path_planning
+[0.627s] byte-compiling /home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages/node_path_planning/planner.py to planner.cpython-310.pyc
+[0.627s] byte-compiling /home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages/node_path_planning/__init__.py to __init__.cpython-310.pyc
+[0.627s] running install_data
+[0.628s] creating /home/julian/ros2_ws/install/node_path_planning/share/ament_index
+[0.628s] creating /home/julian/ros2_ws/install/node_path_planning/share/ament_index/resource_index
+[0.628s] creating /home/julian/ros2_ws/install/node_path_planning/share/ament_index/resource_index/packages
+[0.628s] copying resource/node_path_planning -> /home/julian/ros2_ws/install/node_path_planning/share/ament_index/resource_index/packages
+[0.628s] copying package.xml -> /home/julian/ros2_ws/install/node_path_planning/share/node_path_planning
+[0.628s] running install_egg_info
+[0.629s] Copying ../../build/node_path_planning/node_path_planning.egg-info to /home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages/node_path_planning-0.0.0-py3.10.egg-info
+[0.630s] running install_scripts
+[0.644s] Installing planner script to /home/julian/ros2_ws/install/node_path_planning/lib/node_path_planning
+[0.644s] writing list of installed files to '/home/julian/ros2_ws/build/node_path_planning/install.log'
+[0.659s] Invoked command in '/home/julian/ros2_ws/src/node_path_planning' returned '0': PYTHONPATH=/home/julian/ros2_ws/build/node_path_planning/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/node_path_planning build --build-base /home/julian/ros2_ws/build/node_path_planning/build install --record /home/julian/ros2_ws/build/node_path_planning/install.log --single-version-externally-managed install_data

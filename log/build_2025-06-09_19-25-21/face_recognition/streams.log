@@ -1,0 +1,24 @@
+[0.345s] Invoking command in '/home/julian/ros2_ws/build/face_recognition': PYTHONPATH=/home/julian/ros2_ws/build/face_recognition/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/julian/ros2_ws/build/face_recognition/build --no-deps symlink_data
+[0.493s] running develop
+[0.570s] running egg_info
+[0.571s] creating face_recognition.egg-info
+[0.571s] writing face_recognition.egg-info/PKG-INFO
+[0.571s] writing dependency_links to face_recognition.egg-info/dependency_links.txt
+[0.571s] writing entry points to face_recognition.egg-info/entry_points.txt
+[0.571s] writing requirements to face_recognition.egg-info/requires.txt
+[0.571s] writing top-level names to face_recognition.egg-info/top_level.txt
+[0.571s] writing manifest file 'face_recognition.egg-info/SOURCES.txt'
+[0.572s] reading manifest file 'face_recognition.egg-info/SOURCES.txt'
+[0.573s] writing manifest file 'face_recognition.egg-info/SOURCES.txt'
+[0.573s] running build_ext
+[0.573s] Creating /home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages/face-recognition.egg-link (link to .)
+[0.574s] Installing face_recognition script to /home/julian/ros2_ws/install/face_recognition/lib/face_recognition
+[0.574s] 
+[0.574s] Installed /home/julian/ros2_ws/build/face_recognition
+[0.574s] running symlink_data
+[0.574s] symbolically linking /home/julian/ros2_ws/build/face_recognition/package.xml -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition
+[0.575s] creating /home/julian/ros2_ws/install/face_recognition/share/face_recognition/models
+[0.575s] symbolically linking /home/julian/ros2_ws/build/face_recognition/face_recognition/models/nn4.small2.v1.t7 -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition/models
+[0.575s] symbolically linking /home/julian/ros2_ws/build/face_recognition/face_recognition/models/deploy.prototxt -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition/models
+[0.575s] symbolically linking /home/julian/ros2_ws/build/face_recognition/face_recognition/models/res10_300x300_ssd_iter_140000.caffemodel -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition/models
+[0.590s] Invoked command in '/home/julian/ros2_ws/build/face_recognition' returned '0': PYTHONPATH=/home/julian/ros2_ws/build/face_recognition/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/julian/ros2_ws/build/face_recognition/build --no-deps symlink_data

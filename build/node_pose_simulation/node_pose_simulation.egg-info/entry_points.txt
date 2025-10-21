@@ -1,0 +1,3 @@
+[console_scripts]
+simulator = node_pose_simulation.simulator:main
+

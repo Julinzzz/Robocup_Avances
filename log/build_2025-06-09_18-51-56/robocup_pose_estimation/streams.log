@@ -1,0 +1,26 @@
+[0.421s] Invoking command in '/home/julian/ros2_ws/build/robocup_pose_estimation': PYTHONPATH=/home/julian/ros2_ws/build/robocup_pose_estimation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/julian/ros2_ws/install/robocup_pose_estimation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/julian/ros2_ws/build/robocup_pose_estimation/build --no-deps symlink_data
+[0.604s] running develop
+[0.728s] running egg_info
+[0.728s] creating robocup_pose_estimation.egg-info
+[0.729s] writing robocup_pose_estimation.egg-info/PKG-INFO
+[0.729s] writing dependency_links to robocup_pose_estimation.egg-info/dependency_links.txt
+[0.729s] writing entry points to robocup_pose_estimation.egg-info/entry_points.txt
+[0.729s] writing requirements to robocup_pose_estimation.egg-info/requires.txt
+[0.729s] writing top-level names to robocup_pose_estimation.egg-info/top_level.txt
+[0.729s] writing manifest file 'robocup_pose_estimation.egg-info/SOURCES.txt'
+[0.730s] reading manifest file 'robocup_pose_estimation.egg-info/SOURCES.txt'
+[0.730s] writing manifest file 'robocup_pose_estimation.egg-info/SOURCES.txt'
+[0.731s] running build_ext
+[0.731s] Creating /home/julian/ros2_ws/install/robocup_pose_estimation/lib/python3.10/site-packages/robocup-pose-estimation.egg-link (link to .)
+[0.732s] Installing pose_node script to /home/julian/ros2_ws/install/robocup_pose_estimation/lib/robocup_pose_estimation
+[0.732s] 
+[0.732s] Installed /home/julian/ros2_ws/build/robocup_pose_estimation
+[0.732s] running symlink_data
+[0.733s] creating /home/julian/ros2_ws/install/robocup_pose_estimation/share/ament_index
+[0.733s] creating /home/julian/ros2_ws/install/robocup_pose_estimation/share/ament_index/resource_index
+[0.733s] creating /home/julian/ros2_ws/install/robocup_pose_estimation/share/ament_index/resource_index/packages
+[0.733s] symbolically linking /home/julian/ros2_ws/build/robocup_pose_estimation/resource/robocup_pose_estimation -> /home/julian/ros2_ws/install/robocup_pose_estimation/share/ament_index/resource_index/packages
+[0.733s] symbolically linking /home/julian/ros2_ws/build/robocup_pose_estimation/package.xml -> /home/julian/ros2_ws/install/robocup_pose_estimation/share/robocup_pose_estimation
+[0.733s] creating /home/julian/ros2_ws/install/robocup_pose_estimation/share/robocup_pose_estimation/launch
+[0.733s] symbolically linking /home/julian/ros2_ws/build/robocup_pose_estimation/launch/camera.launch.py -> /home/julian/ros2_ws/install/robocup_pose_estimation/share/robocup_pose_estimation/launch
+[0.750s] Invoked command in '/home/julian/ros2_ws/build/robocup_pose_estimation' returned '0': PYTHONPATH=/home/julian/ros2_ws/build/robocup_pose_estimation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/julian/ros2_ws/install/robocup_pose_estimation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/julian/ros2_ws/build/robocup_pose_estimation/build --no-deps symlink_data

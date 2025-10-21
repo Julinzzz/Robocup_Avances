@@ -1,0 +1,17 @@
+[0.431s] Invoking command in '/home/julian/ros2_ws/build/face_recognition': PYTHONPATH=/home/julian/ros2_ws/build/face_recognition/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/julian/ros2_ws/build/face_recognition/build --no-deps symlink_data
+[0.619s] running develop
+[0.751s] running egg_info
+[0.751s] writing face_recognition.egg-info/PKG-INFO
+[0.751s] writing dependency_links to face_recognition.egg-info/dependency_links.txt
+[0.751s] writing entry points to face_recognition.egg-info/entry_points.txt
+[0.752s] writing requirements to face_recognition.egg-info/requires.txt
+[0.752s] writing top-level names to face_recognition.egg-info/top_level.txt
+[0.753s] reading manifest file 'face_recognition.egg-info/SOURCES.txt'
+[0.753s] writing manifest file 'face_recognition.egg-info/SOURCES.txt'
+[0.754s] running build_ext
+[0.754s] Creating /home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages/face-recognition.egg-link (link to .)
+[0.755s] Installing face_recognition script to /home/julian/ros2_ws/install/face_recognition/lib/face_recognition
+[0.755s] 
+[0.755s] Installed /home/julian/ros2_ws/build/face_recognition
+[0.755s] running symlink_data
+[0.773s] Invoked command in '/home/julian/ros2_ws/build/face_recognition' returned '0': PYTHONPATH=/home/julian/ros2_ws/build/face_recognition/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/julian/ros2_ws/build/face_recognition/build --no-deps symlink_data

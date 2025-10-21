@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: face-recognition
+Version: 0.0.1
+Summary: Reconocimiento facial con cámara USB y FaceNet en ROS 2
+Home-page: UNKNOWN
+Maintainer: Tu Nombre
+Maintainer-email: tu.email@example.com
+License: Apache-2.0
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+

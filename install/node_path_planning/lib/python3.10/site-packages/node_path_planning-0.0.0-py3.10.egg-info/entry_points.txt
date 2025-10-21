@@ -1,0 +1,3 @@
+[console_scripts]
+planner = node_path_planning.planner:main
+

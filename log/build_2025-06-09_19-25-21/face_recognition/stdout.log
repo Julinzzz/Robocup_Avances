@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating face_recognition.egg-info
+writing face_recognition.egg-info/PKG-INFO
+writing dependency_links to face_recognition.egg-info/dependency_links.txt
+writing entry points to face_recognition.egg-info/entry_points.txt
+writing requirements to face_recognition.egg-info/requires.txt
+writing top-level names to face_recognition.egg-info/top_level.txt
+writing manifest file 'face_recognition.egg-info/SOURCES.txt'
+reading manifest file 'face_recognition.egg-info/SOURCES.txt'
+writing manifest file 'face_recognition.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages/face-recognition.egg-link (link to .)
+Installing face_recognition script to /home/julian/ros2_ws/install/face_recognition/lib/face_recognition
+
+Installed /home/julian/ros2_ws/build/face_recognition
+running symlink_data
+symbolically linking /home/julian/ros2_ws/build/face_recognition/package.xml -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition
+creating /home/julian/ros2_ws/install/face_recognition/share/face_recognition/models
+symbolically linking /home/julian/ros2_ws/build/face_recognition/face_recognition/models/nn4.small2.v1.t7 -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition/models
+symbolically linking /home/julian/ros2_ws/build/face_recognition/face_recognition/models/deploy.prototxt -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition/models
+symbolically linking /home/julian/ros2_ws/build/face_recognition/face_recognition/models/res10_300x300_ssd_iter_140000.caffemodel -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition/models

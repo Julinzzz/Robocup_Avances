@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating robocup_pose_estimation.egg-info
+writing robocup_pose_estimation.egg-info/PKG-INFO
+writing dependency_links to robocup_pose_estimation.egg-info/dependency_links.txt
+writing entry points to robocup_pose_estimation.egg-info/entry_points.txt
+writing requirements to robocup_pose_estimation.egg-info/requires.txt
+writing top-level names to robocup_pose_estimation.egg-info/top_level.txt
+writing manifest file 'robocup_pose_estimation.egg-info/SOURCES.txt'
+reading manifest file 'robocup_pose_estimation.egg-info/SOURCES.txt'
+writing manifest file 'robocup_pose_estimation.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/julian/ros2_ws/install/robocup_pose_estimation/lib/python3.10/site-packages/robocup-pose-estimation.egg-link (link to .)
+Installing pose_node script to /home/julian/ros2_ws/install/robocup_pose_estimation/lib/robocup_pose_estimation
+
+Installed /home/julian/ros2_ws/build/robocup_pose_estimation
+running symlink_data
+creating /home/julian/ros2_ws/install/robocup_pose_estimation/share/ament_index
+creating /home/julian/ros2_ws/install/robocup_pose_estimation/share/ament_index/resource_index
+creating /home/julian/ros2_ws/install/robocup_pose_estimation/share/ament_index/resource_index/packages
+symbolically linking /home/julian/ros2_ws/build/robocup_pose_estimation/resource/robocup_pose_estimation -> /home/julian/ros2_ws/install/robocup_pose_estimation/share/ament_index/resource_index/packages
+symbolically linking /home/julian/ros2_ws/build/robocup_pose_estimation/package.xml -> /home/julian/ros2_ws/install/robocup_pose_estimation/share/robocup_pose_estimation
+creating /home/julian/ros2_ws/install/robocup_pose_estimation/share/robocup_pose_estimation/launch
+symbolically linking /home/julian/ros2_ws/build/robocup_pose_estimation/launch/camera.launch.py -> /home/julian/ros2_ws/install/robocup_pose_estimation/share/robocup_pose_estimation/launch

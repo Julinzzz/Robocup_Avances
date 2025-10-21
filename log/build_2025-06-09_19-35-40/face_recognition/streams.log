@@ -1,0 +1,24 @@
+[0.417s] Invoking command in '/home/julian/ros2_ws/src/face_recognition': PYTHONPATH=/home/julian/ros2_ws/build/face_recognition/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/face_recognition build --build-base /home/julian/ros2_ws/build/face_recognition/build install --record /home/julian/ros2_ws/build/face_recognition/install.log --single-version-externally-managed install_data
+[0.586s] running egg_info
+[0.586s] writing ../../build/face_recognition/face_recognition.egg-info/PKG-INFO
+[0.586s] writing dependency_links to ../../build/face_recognition/face_recognition.egg-info/dependency_links.txt
+[0.586s] writing entry points to ../../build/face_recognition/face_recognition.egg-info/entry_points.txt
+[0.586s] writing requirements to ../../build/face_recognition/face_recognition.egg-info/requires.txt
+[0.587s] writing top-level names to ../../build/face_recognition/face_recognition.egg-info/top_level.txt
+[0.588s] reading manifest file '../../build/face_recognition/face_recognition.egg-info/SOURCES.txt'
+[0.588s] adding license file 'LICENSE'
+[0.588s] writing manifest file '../../build/face_recognition/face_recognition.egg-info/SOURCES.txt'
+[0.588s] running build
+[0.588s] running build_py
+[0.589s] running install
+[0.589s] running install_lib
+[0.589s] running install_data
+[0.590s] creating /home/julian/ros2_ws/install/face_recognition/share/face_recognition/launch
+[0.590s] copying launch/face_recognition.launch.py -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition/launch
+[0.590s] running install_egg_info
+[0.591s] removing '/home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages/face_recognition-0.0.1-py3.10.egg-info' (and everything under it)
+[0.591s] Copying ../../build/face_recognition/face_recognition.egg-info to /home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages/face_recognition-0.0.1-py3.10.egg-info
+[0.592s] running install_scripts
+[0.606s] Installing face_recognition script to /home/julian/ros2_ws/install/face_recognition/lib/face_recognition
+[0.606s] writing list of installed files to '/home/julian/ros2_ws/build/face_recognition/install.log'
+[0.621s] Invoked command in '/home/julian/ros2_ws/src/face_recognition' returned '0': PYTHONPATH=/home/julian/ros2_ws/build/face_recognition/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/face_recognition build --build-base /home/julian/ros2_ws/build/face_recognition/build install --record /home/julian/ros2_ws/build/face_recognition/install.log --single-version-externally-managed install_data

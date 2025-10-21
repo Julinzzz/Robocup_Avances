@@ -1,0 +1,35 @@
+running develop
+Removing /home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages/face-recognition.egg-link (link to .)
+running egg_info
+writing ../../build/face_recognition/face_recognition.egg-info/PKG-INFO
+writing dependency_links to ../../build/face_recognition/face_recognition.egg-info/dependency_links.txt
+writing entry points to ../../build/face_recognition/face_recognition.egg-info/entry_points.txt
+writing requirements to ../../build/face_recognition/face_recognition.egg-info/requires.txt
+writing top-level names to ../../build/face_recognition/face_recognition.egg-info/top_level.txt
+reading manifest file '../../build/face_recognition/face_recognition.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/face_recognition/face_recognition.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/julian/ros2_ws/build/face_recognition/build
+creating /home/julian/ros2_ws/build/face_recognition/build/lib
+creating /home/julian/ros2_ws/build/face_recognition/build/lib/face_recognition
+copying face_recognition/face_recognition_node.py -> /home/julian/ros2_ws/build/face_recognition/build/lib/face_recognition
+copying face_recognition/__init__.py -> /home/julian/ros2_ws/build/face_recognition/build/lib/face_recognition
+running install
+running install_lib
+creating /home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages/face_recognition
+copying /home/julian/ros2_ws/build/face_recognition/build/lib/face_recognition/face_recognition_node.py -> /home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages/face_recognition
+copying /home/julian/ros2_ws/build/face_recognition/build/lib/face_recognition/__init__.py -> /home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages/face_recognition
+byte-compiling /home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages/face_recognition/face_recognition_node.py to face_recognition_node.cpython-310.pyc
+byte-compiling /home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages/face_recognition/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying package.xml -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition
+copying face_recognition/models/nn4.small2.v1.t7 -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition/models
+copying face_recognition/models/deploy.prototxt -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition/models
+copying face_recognition/models/res10_300x300_ssd_iter_140000.caffemodel -> /home/julian/ros2_ws/install/face_recognition/share/face_recognition/models
+running install_egg_info
+Copying ../../build/face_recognition/face_recognition.egg-info to /home/julian/ros2_ws/install/face_recognition/lib/python3.10/site-packages/face_recognition-0.0.1-py3.10.egg-info
+running install_scripts
+Installing face_recognition script to /home/julian/ros2_ws/install/face_recognition/lib/face_recognition
+writing list of installed files to '/home/julian/ros2_ws/build/face_recognition/install.log'

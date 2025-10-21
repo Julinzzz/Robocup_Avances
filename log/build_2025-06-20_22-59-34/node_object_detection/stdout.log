@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/node_object_detection/node_object_detection.egg-info
+writing ../../build/node_object_detection/node_object_detection.egg-info/PKG-INFO
+writing dependency_links to ../../build/node_object_detection/node_object_detection.egg-info/dependency_links.txt
+writing entry points to ../../build/node_object_detection/node_object_detection.egg-info/entry_points.txt
+writing requirements to ../../build/node_object_detection/node_object_detection.egg-info/requires.txt
+writing top-level names to ../../build/node_object_detection/node_object_detection.egg-info/top_level.txt
+writing manifest file '../../build/node_object_detection/node_object_detection.egg-info/SOURCES.txt'
+reading manifest file '../../build/node_object_detection/node_object_detection.egg-info/SOURCES.txt'
+writing manifest file '../../build/node_object_detection/node_object_detection.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/julian/ros2_ws/build/node_object_detection/build
+creating /home/julian/ros2_ws/build/node_object_detection/build/lib
+creating /home/julian/ros2_ws/build/node_object_detection/build/lib/node_object_detection
+copying node_object_detection/detector.py -> /home/julian/ros2_ws/build/node_object_detection/build/lib/node_object_detection
+copying node_object_detection/__init__.py -> /home/julian/ros2_ws/build/node_object_detection/build/lib/node_object_detection
+running install
+running install_lib
+creating /home/julian/ros2_ws/install/node_object_detection/lib/python3.10/site-packages/node_object_detection
+copying /home/julian/ros2_ws/build/node_object_detection/build/lib/node_object_detection/detector.py -> /home/julian/ros2_ws/install/node_object_detection/lib/python3.10/site-packages/node_object_detection
+copying /home/julian/ros2_ws/build/node_object_detection/build/lib/node_object_detection/__init__.py -> /home/julian/ros2_ws/install/node_object_detection/lib/python3.10/site-packages/node_object_detection
+byte-compiling /home/julian/ros2_ws/install/node_object_detection/lib/python3.10/site-packages/node_object_detection/detector.py to detector.cpython-310.pyc
+byte-compiling /home/julian/ros2_ws/install/node_object_detection/lib/python3.10/site-packages/node_object_detection/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/julian/ros2_ws/install/node_object_detection/share/ament_index
+creating /home/julian/ros2_ws/install/node_object_detection/share/ament_index/resource_index
+creating /home/julian/ros2_ws/install/node_object_detection/share/ament_index/resource_index/packages
+copying resource/node_object_detection -> /home/julian/ros2_ws/install/node_object_detection/share/ament_index/resource_index/packages
+copying package.xml -> /home/julian/ros2_ws/install/node_object_detection/share/node_object_detection
+running install_egg_info
+Copying ../../build/node_object_detection/node_object_detection.egg-info to /home/julian/ros2_ws/install/node_object_detection/lib/python3.10/site-packages/node_object_detection-0.0.0-py3.10.egg-info
+running install_scripts
+Installing detector script to /home/julian/ros2_ws/install/node_object_detection/lib/node_object_detection
+writing list of installed files to '/home/julian/ros2_ws/build/node_object_detection/install.log'

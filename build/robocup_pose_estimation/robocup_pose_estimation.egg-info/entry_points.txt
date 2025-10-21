@@ -1,0 +1,3 @@
+[console_scripts]
+pose_node = robocup_pose_estimation.pose_node:main
+

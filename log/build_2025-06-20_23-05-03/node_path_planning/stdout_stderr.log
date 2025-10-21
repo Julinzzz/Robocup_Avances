@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/node_path_planning/node_path_planning.egg-info
+writing ../../build/node_path_planning/node_path_planning.egg-info/PKG-INFO
+writing dependency_links to ../../build/node_path_planning/node_path_planning.egg-info/dependency_links.txt
+writing entry points to ../../build/node_path_planning/node_path_planning.egg-info/entry_points.txt
+writing requirements to ../../build/node_path_planning/node_path_planning.egg-info/requires.txt
+writing top-level names to ../../build/node_path_planning/node_path_planning.egg-info/top_level.txt
+writing manifest file '../../build/node_path_planning/node_path_planning.egg-info/SOURCES.txt'
+reading manifest file '../../build/node_path_planning/node_path_planning.egg-info/SOURCES.txt'
+writing manifest file '../../build/node_path_planning/node_path_planning.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/julian/ros2_ws/build/node_path_planning/build
+creating /home/julian/ros2_ws/build/node_path_planning/build/lib
+creating /home/julian/ros2_ws/build/node_path_planning/build/lib/node_path_planning
+copying node_path_planning/planner.py -> /home/julian/ros2_ws/build/node_path_planning/build/lib/node_path_planning
+copying node_path_planning/__init__.py -> /home/julian/ros2_ws/build/node_path_planning/build/lib/node_path_planning
+running install
+running install_lib
+creating /home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages/node_path_planning
+copying /home/julian/ros2_ws/build/node_path_planning/build/lib/node_path_planning/planner.py -> /home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages/node_path_planning
+copying /home/julian/ros2_ws/build/node_path_planning/build/lib/node_path_planning/__init__.py -> /home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages/node_path_planning
+byte-compiling /home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages/node_path_planning/planner.py to planner.cpython-310.pyc
+byte-compiling /home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages/node_path_planning/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/julian/ros2_ws/install/node_path_planning/share/ament_index
+creating /home/julian/ros2_ws/install/node_path_planning/share/ament_index/resource_index
+creating /home/julian/ros2_ws/install/node_path_planning/share/ament_index/resource_index/packages
+copying resource/node_path_planning -> /home/julian/ros2_ws/install/node_path_planning/share/ament_index/resource_index/packages
+copying package.xml -> /home/julian/ros2_ws/install/node_path_planning/share/node_path_planning
+running install_egg_info
+Copying ../../build/node_path_planning/node_path_planning.egg-info to /home/julian/ros2_ws/install/node_path_planning/lib/python3.10/site-packages/node_path_planning-0.0.0-py3.10.egg-info
+running install_scripts
+Installing planner script to /home/julian/ros2_ws/install/node_path_planning/lib/node_path_planning
+writing list of installed files to '/home/julian/ros2_ws/build/node_path_planning/install.log'

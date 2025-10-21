@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/node_pose_simulation/node_pose_simulation.egg-info
+writing ../../build/node_pose_simulation/node_pose_simulation.egg-info/PKG-INFO
+writing dependency_links to ../../build/node_pose_simulation/node_pose_simulation.egg-info/dependency_links.txt
+writing entry points to ../../build/node_pose_simulation/node_pose_simulation.egg-info/entry_points.txt
+writing requirements to ../../build/node_pose_simulation/node_pose_simulation.egg-info/requires.txt
+writing top-level names to ../../build/node_pose_simulation/node_pose_simulation.egg-info/top_level.txt
+writing manifest file '../../build/node_pose_simulation/node_pose_simulation.egg-info/SOURCES.txt'
+reading manifest file '../../build/node_pose_simulation/node_pose_simulation.egg-info/SOURCES.txt'
+writing manifest file '../../build/node_pose_simulation/node_pose_simulation.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/julian/ros2_ws/build/node_pose_simulation/build
+creating /home/julian/ros2_ws/build/node_pose_simulation/build/lib
+creating /home/julian/ros2_ws/build/node_pose_simulation/build/lib/node_pose_simulation
+copying node_pose_simulation/simulator.py -> /home/julian/ros2_ws/build/node_pose_simulation/build/lib/node_pose_simulation
+copying node_pose_simulation/__init__.py -> /home/julian/ros2_ws/build/node_pose_simulation/build/lib/node_pose_simulation
+running install
+running install_lib
+creating /home/julian/ros2_ws/install/node_pose_simulation/lib/python3.10/site-packages/node_pose_simulation
+copying /home/julian/ros2_ws/build/node_pose_simulation/build/lib/node_pose_simulation/simulator.py -> /home/julian/ros2_ws/install/node_pose_simulation/lib/python3.10/site-packages/node_pose_simulation
+copying /home/julian/ros2_ws/build/node_pose_simulation/build/lib/node_pose_simulation/__init__.py -> /home/julian/ros2_ws/install/node_pose_simulation/lib/python3.10/site-packages/node_pose_simulation
+byte-compiling /home/julian/ros2_ws/install/node_pose_simulation/lib/python3.10/site-packages/node_pose_simulation/simulator.py to simulator.cpython-310.pyc
+byte-compiling /home/julian/ros2_ws/install/node_pose_simulation/lib/python3.10/site-packages/node_pose_simulation/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/julian/ros2_ws/install/node_pose_simulation/share/ament_index
+creating /home/julian/ros2_ws/install/node_pose_simulation/share/ament_index/resource_index
+creating /home/julian/ros2_ws/install/node_pose_simulation/share/ament_index/resource_index/packages
+copying resource/node_pose_simulation -> /home/julian/ros2_ws/install/node_pose_simulation/share/ament_index/resource_index/packages
+copying package.xml -> /home/julian/ros2_ws/install/node_pose_simulation/share/node_pose_simulation
+running install_egg_info
+Copying ../../build/node_pose_simulation/node_pose_simulation.egg-info to /home/julian/ros2_ws/install/node_pose_simulation/lib/python3.10/site-packages/node_pose_simulation-0.0.0-py3.10.egg-info
+running install_scripts
+Installing simulator script to /home/julian/ros2_ws/install/node_pose_simulation/lib/node_pose_simulation
+writing list of installed files to '/home/julian/ros2_ws/build/node_pose_simulation/install.log'
